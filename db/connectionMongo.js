@@ -8,8 +8,8 @@ module.exports = {
       useNewUrlParser: true
     });
 
-    app.listen(3000, () => {
-      console.log("Conectamos mongo y el servidor nodeJS 🧠");
+    app.listen(8081, () => {
+      console.log("Conectamos mongo y el servidor nodeJS 🧠 8081");
     });
   }
 };
