@@ -8,7 +8,7 @@ module.exports = {
       useNewUrlParser: true
     });
 
-    app.listen(9000, () => {
+    app.listen(3000, () => {
       console.log("Conectamos mongo y el servidor nodeJS 🧠");
     });
   }
