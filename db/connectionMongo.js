@@ -9,7 +9,7 @@ module.exports = {
     });
 
     app.listen(8081, () => {
-      console.log("Conectamos mongo y el servidor nodeJS 🧠 8081");
+      console.log("Conectamos mongo y el servidor nodeJS 🧠🐞 8081");
     });
   }
 };
